@@ -6,8 +6,6 @@
 
 *Versão Python*: 3.11.9
 
-![Texto Alternativo](https://imgbin.com/png/SiSR2Tvn/github-website-development-software-developer-programmer-png)
-
 **Linguagens e Ferramentas**
 
  * ***Python/Anaconda***: Anaconda é uma plataforma de ciência de dados que facilita a execução de Python/R para aprendizado de máquina em uma única máquina.
