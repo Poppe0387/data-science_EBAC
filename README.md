@@ -6,6 +6,7 @@
 
 *Versão Python*: 3.11.9
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.] (https://imgbin.com/png/SiSR2Tvn/github-website-development-software-developer-programmer-png)
 
 **Linguagens e Ferramentas**
 
