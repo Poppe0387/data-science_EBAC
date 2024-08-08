@@ -63,3 +63,5 @@ Função: Ambiente de desenvolvimento interativo, flexível e modular para noteb
 *Padronização e limpeza de dados*
 
 *Resolução de problemas baseada em análise de dados*
+
+*Storytelling*
