@@ -1,44 +1,12 @@
-# Título do projeto
+# Análise de telemarketing
 
-Um simples resumo do uso/propósito do projeto.
-
-## Descrição do projeto
-
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
-
-## Utilização
-
-### Dependencias
-
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
-
-### Instalação
-
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
-
-### Executando o projeto
-
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
-
-## Ajuda
-
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
+## Link para aplicação
+https://telemarketing-559m.onrender.com 
 
 ## Autores
 
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
-
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
+Camilla Poppe
+https://www.linkedin.com/in/camilla-poppe/
 
 ## Histórico de versões.
 
@@ -47,9 +15,6 @@ ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
 * 0.1
     * Primeira versão
 
-## Licença de uso
-
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
 
 ## Fontes de inspiração
 
